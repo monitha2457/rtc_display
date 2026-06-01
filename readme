@@ -1,0 +1,38 @@
+# Real Time Clock(RTC) Display
+
+## Project Submission
+
+### Student Details
+- **Name:** Monitha
+- **Domain:** Embedded Systems and IoT
+
+### Project Overview
+The RTC Display Alarm Clock is an embedded systems project that displays real-time time on a 4-digit 7-segment display. Users can set and modify the current time, configure alarms, and use snooze functionality. The system generates an audible alarm when the set alarm time is reached.
+
+### Features
+- Real-Time Clock (RTC) Display
+- Time Adjustment using Buttons
+- Alarm Enable/Disable
+- Alarm Time Setting
+- Snooze Functionality
+- Audible Alarm Notification
+
+### Components Used
+- ESP32 / Arduino Board
+- RTC Module (DS1307/DS3231)
+- 4-Digit 7-Segment Display
+- Push Buttons
+- Buzzer/Speaker
+- Jumper Wires
+
+### Project Output
+The system continuously displays the current time and activates an alarm at the configured time, providing a simple and effective digital alarm clock solution.
+
+### Repository Contents
+- Source Code
+- Circuit Diagram
+- Output Screenshot
+- Project Documentation
+
+---
+**Submitted by:** Monitha  
